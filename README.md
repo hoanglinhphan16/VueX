@@ -23,3 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # VueX
+### Link server
+```
+https://60ee6d61fbbe4de1a305e8c3--practical-curie-0b8257.netlify.app/ 
+```
